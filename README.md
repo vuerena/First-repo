@@ -1,2 +1,3 @@
 # First-repo
-This is my first repository.
+Hi.
+I'm learning GitHub and this is my very first repository.
